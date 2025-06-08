@@ -1,21 +1,7 @@
 # Vuexy Next.js Admin Template 🚀
 
 <div dir="rtl">
-# قالب ادمین Next.js Vuexy 🚀
-</div>
-
-[![Next.js](https://img.shields.io/badge/Next.js-13.3.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Material-UI](https://img.shields.io/badge/Material--UI-5.12.2-blue?style=for-the-badge&logo=mui)](https://mui.com/)
-[![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?style=for-the-badge&logo=redux)](https://redux-toolkit.js.org/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
-
-<div dir="rtl">
-[![Next.js](https://img.shields.io/badge/Next.js-13.3.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Material-UI](https://img.shields.io/badge/Material--UI-5.12.2-blue?style=for-the-badge&logo=mui)](https://mui.com/)
-[![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?style=for-the-badge&logo=redux)](https://redux-toolkit.js.org/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+#  پنل ادمین Next.js Vuexy 🚀
 </div>
 
 ## 🌟 Features | ویژگی‌ها
@@ -170,51 +156,4 @@ src/
 - [Chart.js](https://www.chartjs.org/) - نمودارها
 - [FullCalendar](https://fullcalendar.io/) - سیستم تقویم
 - [i18next](https://www.i18next.com/) - چند زبانه‌سازی
-</div>
-
-## 📝 License | لایسنس
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<div dir="rtl">
-## 📝 لایسنس
-
-این پروژه تحت لایسنس MIT منتشر شده است - برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
-
-</div>
-
-## 🤝 Contributing | مشارکت
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/vuexy-nextjs-admin-template/issues).
-
-<div dir="rtl">
-## 🤝 مشارکت
-
-مشارکت‌ها، مشکلات و درخواست‌های ویژگی مورد استقبال قرار می‌گیرند! می‌توانید به [صفحه مشکلات](https://github.com/your-username/vuexy-nextjs-admin-template/issues) مراجعه کنید.
-
-</div>
-
-## 📧 Contact | تماس
-
-Your Name - [@your-twitter](https://twitter.com/your-twitter) - email@example.com
-
-Project Link: [https://github.com/your-username/vuexy-nextjs-admin-template](https://github.com/your-username/vuexy-nextjs-admin-template)
-
-<div dir="rtl">
-## 📧 تماس
-
-نام شما - [@your-twitter](https://twitter.com/your-twitter) - email@example.com
-
-لینک پروژه: [https://github.com/your-username/vuexy-nextjs-admin-template](https://github.com/your-username/vuexy-nextjs-admin-template)
-
-</div>
-
----
-
-⭐️ From [Your Name](https://github.com/your-username)
-
-## <div dir="rtl">
-
-⭐️ از [نام شما](https://github.com/your-username)
-
 </div>
