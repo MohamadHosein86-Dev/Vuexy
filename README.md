@@ -66,8 +66,7 @@ git clone https://github.com/your-username/vuexy-nextjs-admin-template.git
 cd vuexy-nextjs-admin-template
 
 # Install dependencies
-yarn install
-# or
+
 npm install
 
 # Start development server
