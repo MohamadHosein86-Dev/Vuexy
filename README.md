@@ -56,7 +56,7 @@
 - Yarn یا npm
 </div>
 
-### Installation | نصب
+### Installation || نصب
 
 ```bash
 # Clone the repository
