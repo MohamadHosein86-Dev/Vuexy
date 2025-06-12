@@ -82,7 +82,6 @@
     "@iconify/tools": "2.2.6",
     "@iconify/types": "2.0.0",
     "@iconify/utils": "2.1.5",
-    "@netlify/next": "^1.4.9",
     "@netlify/plugin-nextjs": "^5.11.2",
     "eslint": "8.36.0",
     "eslint-config-next": "13.3.2",
